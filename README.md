@@ -1,5 +1,5 @@
 ## VENV
-Para criação do projeto trabalhamos com um ambiente virtual, o qual pode ser criado a partir dos comandos abaixo (OBS: recomendado estar na pasta iws)
+Para criação do projeto trabalhamos com um ambiente virtual, o qual pode ser criado a partir dos comandos abaixo (OBS: recomendado estar na pasta raiz)
 
 ```
 # Linux
