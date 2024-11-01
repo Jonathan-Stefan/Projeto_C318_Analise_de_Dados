@@ -1,4 +1,4 @@
-Nome da Doença,Categoria,Região mais Afetada,Incidência Anual (por 100k hab),Faixa Etária Afetada,Mortalidade (%),Número de Casos,Tipo de Tratamento,Custo Médio do Tratamento (R$),Duração Média do Tratamento (dias)
+nome_doenca,categoria,regiao_mais_afetada,incidencia_anual_por_100k_hab,faixa_etaria_afetada,mortalidade_%,numero_de_casos,tipo_de_tratamento,custo_medio_tratamento_R$,duracao_media_tratamento_dias
 HIV/AIDS,Crônica,Sudeste,1629,Todas,15.19,369322,Mudança de Estilo de Vida,28185,287
 Diabetes,Crônica,Norte,1134,Adolescentes,1.93,408251,Vacina,26502,13
 Gripe,Infecciosa,Sul,2446,Adolescentes,9.92,429944,Mudança de Estilo de Vida,11315,242
